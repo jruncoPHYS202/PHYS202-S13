@@ -16,3 +16,7 @@ Signed: Jordan Runco
 
 Dated: June 14th, 2013
 
+If you want to look at my code, go to the Project2.ipynb folder and you can see my code
+ in its finished form.  If you want to look at the documentation and see how to run the 
+code and other details describing and analyzing the code, check the DocumentationNotebook 
+folder.
