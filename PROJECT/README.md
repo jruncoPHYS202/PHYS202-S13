@@ -13,5 +13,6 @@ by them.  I pledge on my honor that I have not given or received any unauthorize
 assistance on assignments or examinations in this course.
 
 Signed: Jordan Runco
+
 Dated: June 14th, 2013
 
