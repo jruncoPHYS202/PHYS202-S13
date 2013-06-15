@@ -1,7 +1,17 @@
-%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-%
-% I am choosing Project 2: One-dimensional Traffic Flows
-% Jordan Runco
-% May 15th 2013
-%
-%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+One - Dimensional Traffic Flow
+
+By: Jordan Runco
+
+June 14th, 2013
+
+Academic Honest Pledge
+
+Cal Poly PHYS-202 - Spring Quarter 2013
+
+I have read and understand the rules regarding academic honesty and I agree to abide
+by them.  I pledge on my honor that I have not given or received any unauthorized
+assistance on assignments or examinations in this course.
+
+Signed: Jordan Runco
+Dated: June 14th, 2013
+
